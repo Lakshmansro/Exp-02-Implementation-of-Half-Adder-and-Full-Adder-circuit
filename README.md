@@ -1,8 +1,8 @@
 # Experiment-03 Implementation of Half Adder and Full Adder circuit
 
 # Implementation ofHalf Adder and Full Adder circuit
-#### NAME:Sri lakshman S
-#### Register no.: 23004121
+#### NAME: Sri lakshman S
+#### Register no.: 212223240159
 ### AIM:
 To design a half adder and full adder circuit and verify its truth table in Quartus using Verilog programming.
 
